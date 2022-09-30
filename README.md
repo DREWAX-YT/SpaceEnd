@@ -1,6 +1,6 @@
 # SpaceEnd 
    ![Image alt](https://raw.githubusercontent.com/DREWAX-YT/SpaceEnd/main/100px_logo.png)
 # EN: 
-SpaceEnd is a plugin for the ender world that does not allow you to enter without a spacesuit, there is no spacesuit - you will suffocate!
+Spaced is a plugin that gives the function of a new armor `spacesuit` for the ender world. This armor is mandatory in the ender world without it, the player will suffocate!
 # RU:
-SpaceEnd это плагин для эндер мира не дающий зайти без скафандра, нет скафандра - будешь задыхаться!
+SpaceEnd это плагин дающий фунцию новой брони `скафандр` для эндер мира. эта броня обязательна в эдер мире без нее игрок будет задыхатся!
