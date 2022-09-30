@@ -1,5 +1,5 @@
 # SpaceEnd 
-   ![Image alt]([https://github.com/DREWAX-YT/project_realmspace/blob/main/images/server-icon.png](https://github.com/DREWAX-YT/SpaceEnd/blob/main/logo.png?raw=true))
+   ![Image alt]([(https://github.com/DREWAX-YT/SpaceEnd/blob/main/logo.png?raw=true])
 # EN: 
 SpaceEnd is a plugin for the ender world that does not allow you to enter without a spacesuit, there is no spacesuit - you will suffocate!
 # RU:
